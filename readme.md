@@ -6,5 +6,4 @@ Framework Codeigniter 3<br>
 Template Backend AdminLTE<br>
 Database MySQL<br>
 
-Demo Aplikasi on YouTube<br>
-https://youtu.be/DewFpdrpkag
+
